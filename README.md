@@ -11,7 +11,12 @@
 
 📊 Projects  
 
-**[Project Name]**:  
+**[UCLA Commencement Cermeony Analysis]**:  
+ * Collaborated with 4 people to evaluate students' preferences for commencement ceremony, using R and employing various statistical techniques like descriptive statistics and exploratory factor analysis
+ * Demonstrated the highest priority for graduates is having more friends and family, leading to a recommendation to increase the number of complimentary guest tickets
+ * [Link to project]
+
+
  * Analyzed [data/probelm] using [tools/techniques]
  * Achieved outcome
  * [Link to project]
