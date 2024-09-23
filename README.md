@@ -13,7 +13,7 @@ Hi! I am Ahyoung (Anna), a recent graduate with a B.S. in Statistics and Data Sc
 
 ## Projects
 
-### [Commencement Ceremony Analysis]
+### [UCLA Commencement Ceremony Analysis]
 - Collaborated with a team of four to evaluate students' preferences for the commencement ceremony using R and various statistical techniques, including descriptive statistics and exploratory factor analysis.
 - Identified that the highest priority for graduates is having more friends and family in attendance, leading to a recommendation to increase the number of complimentary guest tickets
 - [Link to project]  
