@@ -13,15 +13,15 @@ Hi! I am Ahyoung (Anna), a recent graduate with a B.S. in Statistics and Data Sc
 
 ## Projects
 
-### [UCLA Commencement Ceremony Analysis]
-- Collaborated with a team of four to evaluate students' preferences for the commencement ceremony using R and various statistical techniques, including descriptive statistics and exploratory factor analysis.
-- Identified that the highest priority for graduates is having more friends and family in attendance, leading to a recommendation to increase the number of complimentary guest tickets
-- [Link to project](https://github.com/Ahyoung218/Projects/tree/main/UCLA%20Commencement%20Analysis)
-
-### []
- * Analyzed [data/probelm] using [tools/techniques]
- * Achieved outcome
+### [Los Angeles Crime Data Time Series Analysis]
+ * Analyzed crime trends in Los Angeles from 2020 to 2024 by aggregating monthly crime counts and visualizing crime patterns over time.
+ * Predicted a continued decrease in crime rates into 2024 based on the fitted ARIMA model.
  * [Link to project]
+
+### [UCLA Commencement Analysis]
+- Collaborated with a team of four to evaluate students' preferences for the commencement ceremony using R and various statistical techniques, including descriptive statistics and exploratory factor analysis.
+- Identified that the highest priority for graduates is having more friends and family in attendance, leading to a recommendation to increase the number of complimentary guest tickets.
+- [Link to project](https://github.com/Ahyoung218/Projects/tree/main/UCLA%20Commencement%20Analysis)
 
 ## Contact Information  
 - **Email**: ahyoungju218@gmail.com
